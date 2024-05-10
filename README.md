@@ -21,3 +21,8 @@ Model Deployment: Once the best model is selected, it can be deployed in a real-
 Results
 
 The performance of the machine learning models is assessed based on their ability to accurately predict diabetes onset. The final model achieves high accuracy and other relevant evaluation metrics, demonstrating its potential for real-world application.
+
+
+Conclusion
+
+This project demonstrates the effectiveness of machine learning in predicting diabetes onset based on health parameters. The developed model can be valuable for healthcare providers in identifying individuals at risk of diabetes early, allowing for timely intervention and improved patient care.
